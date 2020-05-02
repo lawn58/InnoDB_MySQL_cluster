@@ -5,3 +5,7 @@
           docker-compose ps
 
 ![alt text](1.png "")
+
+Проверка состояния кластера:
+
+![alt text](2.png "")
